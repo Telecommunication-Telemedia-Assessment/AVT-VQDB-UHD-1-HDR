@@ -1,0 +1,48 @@
+{
+    "date": "2024-02-05 23:26:42.999736",
+    "debug": {
+        "baseline": 4.111576197255094,
+        "coding_deg": 21.792709102387462,
+        "rf_pred": 4.003467381553087,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 11.497589538727595
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 0.0031622776555444375,
+        "1.0_quantil_FrameSize": 253942.0,
+        "Bitrate": 4778.95703125,
+        "Framerate": 60.0,
+        "Resolution": 2073600.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 0.0,
+        "hevc_10bit": 1.0,
+        "iqr_Av_QPBB_non-i": 1.3211558854718994,
+        "iqr_min_QP": 3.0,
+        "kurtosis_Av_Motion": 19.589294242527092,
+        "kurtosis_Av_QPBB_non-i": 5.436046469035672,
+        "kurtosis_FrameSize_non-i": 1.1817294077427416,
+        "mean_Av_QPBB_non_i": 22.766556626288335,
+        "predicted_mos_mode3_baseline": 4.111576197255094,
+        "quant": 0.36137391470298946,
+        "std_FrameSize_non-i": 18643.581402519365,
+        "std_max_QP_non-i": 3.563842998842143,
+        "vp9": 0.0
+    },
+    "per_second": [
+        3.052170489838363,
+        4.35157608069919,
+        4.361531641348874,
+        4.238545637022228,
+        4.104205256328205,
+        4.108827565659183,
+        4.170019058937579,
+        4.2116630214028135,
+        4.162089038713542,
+        4.191483494776571
+    ],
+    "per_sequence": 4.05752178940409,
+    "version": "0.1.2",
+    "video_basename": "1920_1080_5000K_hevc_Center_Panorama.mp4",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_hdr_research_seminar/videosegments/1920_1080_5000K_hevc_Center_Panorama.mp4"
+}

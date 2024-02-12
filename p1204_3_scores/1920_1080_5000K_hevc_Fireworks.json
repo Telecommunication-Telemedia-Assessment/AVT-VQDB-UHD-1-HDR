@@ -1,0 +1,48 @@
+{
+    "date": "2024-02-05 23:26:51.613854",
+    "debug": {
+        "baseline": 3.105581168867799,
+        "coding_deg": 37.746222565304706,
+        "rf_pred": 2.95559506973177,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 11.497589538727595
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 0.6388650552451927,
+        "1.0_quantil_FrameSize": 84629.0,
+        "Bitrate": 5262.537109375,
+        "Framerate": 60.0,
+        "Resolution": 2073600.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 0.0,
+        "hevc_10bit": 1.0,
+        "iqr_Av_QPBB_non-i": 0.0,
+        "iqr_min_QP": 5.0,
+        "kurtosis_Av_Motion": 18.028423590952315,
+        "kurtosis_Av_QPBB_non-i": 0.0,
+        "kurtosis_FrameSize_non-i": 1.4370030110928358,
+        "mean_Av_QPBB_non_i": 36.97397485746455,
+        "predicted_mos_mode3_baseline": 3.105581168867799,
+        "quant": 0.5868884898010246,
+        "std_FrameSize_non-i": 12274.422378208517,
+        "std_max_QP_non-i": 2.4859525747091555,
+        "vp9": 0.0
+    },
+    "per_second": [
+        3.030588119299784,
+        3.2830723784126983,
+        3.3013519608642072,
+        3.1926639132717853,
+        3.016441216211227,
+        2.9054918895734705,
+        2.874789367693106,
+        2.896652370574627,
+        2.954842639912509,
+        2.913651320767873
+    ],
+    "per_sequence": 3.030588119299784,
+    "version": "0.1.2",
+    "video_basename": "1920_1080_5000K_hevc_Fireworks.mp4",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_hdr_research_seminar/videosegments/1920_1080_5000K_hevc_Fireworks.mp4"
+}

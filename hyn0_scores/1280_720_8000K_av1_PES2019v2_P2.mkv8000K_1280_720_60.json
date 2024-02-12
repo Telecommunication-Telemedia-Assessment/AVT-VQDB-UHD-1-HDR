@@ -1,0 +1,56 @@
+{
+    "date": "2024-02-05 15:38:37.096206",
+    "debug": {
+        "baseline": 3.63598703353345,
+        "coding_deg": 21.7236729357854,
+        "rf_pred": 3.8182490009095735,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 19.241736862576012
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 0.2264326045790592,
+        "1.0_quantil_FrameSize": 285431.0,
+        "Bitrate": 7769.828125,
+        "Framerate": 60.0,
+        "Resolution": 921600.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 1.0,
+        "hevc_10bit": 0.0,
+        "iqr_Av_QPBB_non-i": 5.547374714476245,
+        "iqr_min_QP": 6.0,
+        "kurtosis_Av_Motion": 0.6544721901428545,
+        "kurtosis_Av_QPBB_non-i": 0.4368955586382439,
+        "kurtosis_FrameSize_non-i": 1.3290914218113992,
+        "mean_Av_QPBB_non_i": 19.63180610818388,
+        "predicted_mos_mode3_baseline": 3.63598703353345,
+        "quant": 0.38493737467027217,
+        "std_FrameSize_non-i": 23160.70302466655,
+        "std_max_QP_non-i": 2.4336253047060836,
+        "vp9": 0.0
+    },
+    "hybrid_encoding_params": {
+        "encoder": "libx265",
+        "video_bitrate": "8000K",
+        "video_framerate": 60.0,
+        "video_height": 720,
+        "video_width": 1280
+    },
+    "model": "hybrid_type_2",
+    "per_second": [
+        3.1218608329161217,
+        3.6738345634638714,
+        3.6870211400841617,
+        3.597908460663833,
+        3.691419165295624,
+        3.930523875322649,
+        4.109419962212273,
+        4.108953655570863,
+        3.766855326741019,
+        3.7776032977682505
+    ],
+    "per_sequence": 3.7271180172215117,
+    "version": "0.1.0",
+    "video_basename": "1280_720_8000K_av1_PES2019v2_P2.mkv8000K_1280_720_60.0_libx265",
+    "video_full_path": "../../../avt-bigdata/co_worker/rakesh/4k_hdr_research_seminar/avrateNG/videos/1280_720_8000K_av1_PES2019v2_P2.mkv"
+}

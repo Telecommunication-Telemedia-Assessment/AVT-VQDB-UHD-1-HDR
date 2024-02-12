@@ -1,0 +1,48 @@
+{
+    "date": "2024-02-05 23:34:02.023819",
+    "debug": {
+        "baseline": 4.439479995853613,
+        "coding_deg": 27.626789590961607,
+        "rf_pred": 4.353235097533292,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 0.0
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 3.206517680366654,
+        "1.0_quantil_FrameSize": 248661.0,
+        "Bitrate": 16902.748046875,
+        "Framerate": 60.0,
+        "Resolution": 8294400.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 0.0,
+        "hevc_10bit": 1.0,
+        "iqr_Av_QPBB_non-i": 3.582490063313628,
+        "iqr_min_QP": 7.0,
+        "kurtosis_Av_Motion": 6.821973514589905,
+        "kurtosis_Av_QPBB_non-i": 1.8343811591752806,
+        "kurtosis_FrameSize_non-i": 0.4514967695774721,
+        "mean_Av_QPBB_non_i": 29.931267090730188,
+        "predicted_mos_mode3_baseline": 4.439479995853613,
+        "quant": 0.4750994776306379,
+        "std_FrameSize_non-i": 25640.033581525207,
+        "std_max_QP_non-i": 2.5007772559915953,
+        "vp9": 0.0
+    },
+    "per_second": [
+        3.7529391167204076,
+        4.307147766923683,
+        4.638004765473169,
+        4.67398780305607,
+        4.603818457821574,
+        4.729633457228052,
+        4.449840888692818,
+        4.325137341851577,
+        4.307453728988231,
+        4.343212601202708
+    ],
+    "per_sequence": 4.396357546693453,
+    "version": "0.1.2",
+    "video_basename": "3840_2160_17000K_hevc_DevilMayCry5_P2.mp4",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_hdr_research_seminar/videosegments/3840_2160_17000K_hevc_DevilMayCry5_P2.mp4"
+}

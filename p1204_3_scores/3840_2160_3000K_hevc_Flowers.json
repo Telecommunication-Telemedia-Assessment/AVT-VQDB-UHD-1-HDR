@@ -1,0 +1,48 @@
+{
+    "date": "2024-02-05 23:41:32.176620",
+    "debug": {
+        "baseline": 2.2352699050370246,
+        "coding_deg": 63.363284079713644,
+        "rf_pred": 2.6284803174128664,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 0.0
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 0.23413620593776568,
+        "1.0_quantil_FrameSize": 332557.0,
+        "Bitrate": 4188.6416015625,
+        "Framerate": 60.0,
+        "Resolution": 8294400.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 0.0,
+        "hevc_10bit": 1.0,
+        "iqr_Av_QPBB_non-i": 5.755287393693912,
+        "iqr_min_QP": 8.0,
+        "kurtosis_Av_Motion": -1.2506271040845949,
+        "kurtosis_Av_QPBB_non-i": 0.027408487820972383,
+        "kurtosis_FrameSize_non-i": 0.886222184946341,
+        "mean_Av_QPBB_non_i": 45.653797755358184,
+        "predicted_mos_mode3_baseline": 2.2352699050370246,
+        "quant": 0.7246634564342569,
+        "std_FrameSize_non-i": 9763.104113522248,
+        "std_max_QP_non-i": 2.926756838309733,
+        "vp9": 0.0
+    },
+    "per_second": [
+        2.3552294736226194,
+        2.485746056479509,
+        2.6396949762126014,
+        2.709445351517925,
+        2.615900716597661,
+        2.513064015349804,
+        2.366194142535886,
+        2.2571671015531987,
+        2.2757439822673473,
+        2.2113863354189593
+    ],
+    "per_sequence": 2.4318751112249455,
+    "version": "0.1.2",
+    "video_basename": "3840_2160_3000K_hevc_Flowers.mp4",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_hdr_research_seminar/videosegments/3840_2160_3000K_hevc_Flowers.mp4"
+}
