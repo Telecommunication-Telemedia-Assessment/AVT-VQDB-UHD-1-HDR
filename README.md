@@ -11,7 +11,7 @@ If you use any of the data or code please cite the following paper
     author = {Rakesh Rao Ramachandra Rao and Benjamin Herb and Helmi-Aurora Takala and Mohamed Tarek Mohamed Ahmed and Alexander Raake},
     booktitle={2024 IEEE 16th International Conference on Quality of Multimedia Experience (QoMEX)}, 
     title={AVT-VQDB-UHD-1-HDR: An Open Video Quality Dataset for Quality Assessment of UHD-1 HDR Videos}, 
-    year={2023},
+    year={2024},
     note = {submitted}
 }
 ```
