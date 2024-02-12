@@ -36,7 +36,7 @@ Upon request we can also share the corresponding bitstreams of the videos.
 * `cpvs` : videos used for the subjective test (rescaled to native display resolution)
 * `srcs` : source videos for the test
 * `videosegments` : bitstreams generated for the test
-* `p1204_3_scores` : hybrid model prediction scores, see [hyn0](https://github.com/Telecommunication-Telemedia-Assessment/bitstream_mode3_p1204_3)
+* `p1204_3_scores` : hybrid model prediction scores, see [P.12043.3](https://github.com/Telecommunication-Telemedia-Assessment/bitstream_mode3_p1204_3)
 * `hyn0_scores` : hybrid model prediction scores, see [hyn0](https://github.com/Telecommunication-Telemedia-Assessment/p1204_3_extensions)
 * `vmaf_scores` : vmaf predictions, [vmaf](https://github.com/Netflix/vmaf)
 * `subjective_scores` : scores from the subjective test, exported from [AVRateNG](https://github.com/Telecommunication-Telemedia-Assessment/avrateNG)
