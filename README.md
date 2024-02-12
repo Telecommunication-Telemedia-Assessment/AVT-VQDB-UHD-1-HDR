@@ -7,7 +7,7 @@ This work is conducted within the framework of [PoQuMo8K](https://www.tu-ilmenau
 If you use any of the data or code please cite the following paper
 
 ```bibtex
-@inproceedings{rao2023HDR,
+@inproceedings{rao2024HDR,
     author = {Rakesh Rao Ramachandra Rao and Benjamin Herb and Helmi-Aurora Takala and Mohamed Tarek Mohamed Ahmed and Alexander Raake},
     booktitle={2024 IEEE 16th International Conference on Quality of Multimedia Experience (QoMEX)}, 
     title={AVT-VQDB-UHD-1-HDR: An Open Video Quality Dataset for Quality Assessment of UHD-1 HDR Videos}, 
