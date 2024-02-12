@@ -18,6 +18,7 @@ If you use any of the data or code please cite the following paper
 
 ## Download Videos
 The dataset can be found here: https://avtshare01.rz.tu-ilmenau.de/avt-vqdb-uhd-1-hdr/
+
 Use the provided download tool to get all the videos. 
 You need `wget` and `unzip` installed.
 
